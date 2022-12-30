@@ -1,1 +1,1 @@
-# kackerRank
+# hackerRank
